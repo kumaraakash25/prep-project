@@ -2,7 +2,7 @@ package com.prep.prepproject.service;
 
 import org.junit.jupiter.api.Test;
 
-class EmployeeServiceTest {
+class EmployeeServiceImplTest {
 
     @Test
     void getEmployee() {
